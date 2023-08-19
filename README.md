@@ -1,7 +1,7 @@
 ![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Archisman Ghosh</h1>
 <h2 align="center">Engineering Student, graphic designer,AI,ML enthusiast from India</h2>
-<img align="right" alt="coding" width=150 height=200px src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="coding" width=170 height=200px position=relative src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipta19062021&label=Profile%20views&color=0e75b6&style=flat" alt="dipta19062021" /> </p>
 
