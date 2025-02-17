@@ -39,6 +39,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipta19062021&show_icons=true&locale=en&layout=compact" alt="dipta19062021" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipta19062021&" alt="dipta19062021" /></p>
+<p><img align="center" src="[![trophy](https://github-profile-trophy.vercel.app/?username=dipta19062021)](https://github.com/ryo-ma/github-profile-trophy)&" alt="dipta19062021" /></p>
 
 [![An image of @dipta19062021's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipta19062021)](https://holopin.io/@dipta19062021)
